@@ -75,7 +75,7 @@ function addCardEle(card) {
         <div class="px-3 py-2">
         <h3 class="text-lg mb-3">${card.title}</h3>
         <div class="flex justify-end text-sm">
-            <a href='#' target='_blank' class="rounded-sm px-3 text-white py-1 bg-purple-500 mr-1 hover:bg-purple-600 transition duration-300">code</a>
+            <a href='${card.code}' target='_blank' class="rounded-sm px-3 text-white py-1 bg-purple-500 mr-1 hover:bg-purple-600 transition duration-300">code</a>
             <a href='${card.link}' target='_blank' class="rounded-sm px-3 text-white py-1 bg-green-500  hover:bg-green-600 transition duration-300">website</a>
         </div>
         </div>
