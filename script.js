@@ -69,8 +69,8 @@ const cards = [
 function addCardEle(card) {
   const cardEle = document.createElement("div");
   cardEle.innerHTML = `<div class="flex flex-col rounded-md border-2 hover:shadow-lg transition duration-500">
-        <a href="${card.link}" target="_blank" class="h-3/6">
-            <img src="${card.img}" class="rounded-tr-sm rounded-tl-sm h-40 object-cover object-center">
+        <a href="${card.link}" target="_blank">
+            <img src="${card.img}" class="rounded-tr-sm rounded-tl-sm h-40 object-cover w-full object-center">
         </a>
         <div class="px-3 py-2">
         <h3 class="text-lg mb-3">${card.title}</h3>
