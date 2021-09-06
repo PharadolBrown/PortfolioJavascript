@@ -89,7 +89,7 @@ const cards = [
 
 function addCardEle(card) {
   const cardEle = document.createElement("div");
-  cardEle.innerHTML = `<div class="flex flex-col rounded-md border-2 hover:shadow-lg transition duration-500">
+  cardEle.innerHTML = `<div class="flex flex-col rounded-md border-2 hover:shadow-lg transition duration-500 hover:bg-gray-900 hover:text-white">
         <a href="${card.link}" target="_blank">
             <img src="${card.img}" class="rounded-tr-sm rounded-tl-sm h-40 object-cover w-full object-center">
         </a>
