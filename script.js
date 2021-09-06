@@ -64,6 +64,27 @@ const cards = [
     link: "./MusicPlayer/index.html",
     code: "https://github.com/PharadolBrown/PortfolioJavascript/tree/main/MusicPlayer",
   },
+  {
+    id: 10,
+    img: "./img/note.png",
+    title: "Note Activities",
+    link: "./Note/index.html",
+    code: "https://github.com/PharadolBrown/PortfolioJavascript/tree/main/Note",
+  },
+  {
+    id: 11,
+    img: "./img/CountDownNY.png",
+    title: "Countdown New Year",
+    link: "./CountDownNY/index.html",
+    code: "https://github.com/PharadolBrown/PortfolioJavascript/tree/main/CountDownNY",
+  },
+  {
+    id: 12,
+    img: "./img/BookingMovieTicket.png",
+    title: "Booking Movie Ticket",
+    link: "./BookingMovieTicket/index.html",
+    code: "https://github.com/PharadolBrown/PortfolioJavascript/tree/main/BookingMovieTicket",
+  },
 ];
 
 function addCardEle(card) {
