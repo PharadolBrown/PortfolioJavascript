@@ -4,7 +4,7 @@ This workshop is designed to help you create a theme switcher using JavaScript, 
 ## Demo
 You can see a live demo of the project [here](https://pharadolbrown.github.io/PortfolioJavascript/Light_Dark_Mode/index.html).
 
-![Project Screenshot](https://img5.pic.in.th/file/secure-sv1/light-dark-mode.png)
+![Project Screenshot](https://img5.pic.in.th/file/secure-sv1/theme-switcher-js.png)
 
 ## Features
 - Toggle between light and dark modes
