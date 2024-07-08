@@ -1,6 +1,6 @@
 # Calculator
 
-   This workshop is designed to help you build a simple calculator using JavaScript, HTML, and CSS. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It also handles decimal inputs and displays error messages for invalid operations.
+   This workshop is designed to help you build a simple calculator using JavaScript, HTML, and CSS. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Demo
 You can see a live demo of the project [here](https://pharadolbrown.github.io/PortfolioJavascript/Calculator/index.html).
