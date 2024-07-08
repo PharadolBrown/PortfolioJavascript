@@ -1,4 +1,4 @@
-Income-Expense Tracker
+# Income-Expense Tracker
 This workshop is designed to help you create an income and expense tracking application using JavaScript, HTML, and Tailwind CSS. The application allows users to add, remove, and track their transactions to see their current balance, total income, and total expenses.
 
 ## Demo
