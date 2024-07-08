@@ -17,12 +17,12 @@ function switchMode(e) {
   }
 }
 function darkMode() {
-  toggleIcon.children[0].textContent = "โหมดกลางคืน";    //เพราะเราดึงตัวแม่มา เลยต้องเข้าถึงลูก
+  toggleIcon.children[0].textContent = "Dark Mode";    //เพราะเราดึงตัวแม่มา เลยต้องเข้าถึงลูก
   toggleIcon.children[1].classList.replace("fa-sun", "fa-moon");
   nav.style.backgroundColor = "rgb(0 0 0 / 50%)";
 }
 function lightMode() {
-  toggleIcon.children[0].textContent = "โหมดกลางวัน";
+  toggleIcon.children[0].textContent = "Light Mode";
   toggleIcon.children[1].classList.replace("fa-moon", "fa-sun");
   nav.style.backgroundColor = "rgb(255 255 255 / 50%)";
 }
