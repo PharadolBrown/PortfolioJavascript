@@ -6,13 +6,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 100px;
+    padding-bottom: 700px;
 }
 .container{
     width: 700px;
     max-width: 100%;
     margin:0 auto;
-    padding: 10px;
 }
 img{
     width: 700px;
