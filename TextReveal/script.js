@@ -11,7 +11,6 @@ function showText() {
     const scrollPos = window.pageYOffset; // scrollPosition
     // 500 + (100 / 50)
     // 502 => แสดงข้อความ
-    console.log(imgEl.offsetTop);
     const textPos = imgEl.offsetTop + imgEl.offsetHeight / 10;
     //imgEl.offsetTop: ตน สูงสุดของภาพ ณ ปัจจุบัน
     // imgEl.offsetHeight : ค.สูงของภาพ;
