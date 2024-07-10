@@ -11,7 +11,7 @@ You can see a live demo of the project [here](https://pharadolbrown.github.io/Po
 - Fetch real-time exchange rates from an API
 - Swap currencies functionality
 - Automatically update converted amount as input changes
-- 
+  
 ## File Structure
 - index.html: Contains the HTML structure of the currency converter.
 - styles.css: Contains the CSS styles for the currency converter.
